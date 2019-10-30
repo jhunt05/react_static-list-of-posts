@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MACE,YAAa,CACb,sBACF,CAEA,SACE,SAAU,CACV,YAAa,CACb,wBACF","file":"main.7a6e6f65.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n#root {\n  display: flex;\n  justify-content: center;\n}\n\n.ui.card {\n  width: 50%;\n  padding: 20px;\n  background-color: rgb(236, 234, 234);\n}\n"]}
